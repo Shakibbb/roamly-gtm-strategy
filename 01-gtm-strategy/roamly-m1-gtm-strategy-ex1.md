@@ -1,0 +1,11 @@
+# Roamly Groups · GTM Strategy, Module 1 (Exercise 1)
+
+## Responses
+- **What is the core business problem Roamly is trying to solve with Roamly Groups?:** The process is complex for customers, and as a community-led growth company, it's crucial.
+- **What does success look like if this launch goes well? Think beyond revenue, the product, the brand, and the customer relationship.:** People started this platform to offer an end-to-end solution without jumping between different platforms for communication, payment, or itineraries.
+- **What signals suggest this is a real market opportunity worth pursuing? What is the behavioral data telling you about unmet demand?:** People are jumping off the ship when the collaboration part comes in.
+- **List your top 5 possible segments that could benefit from Roamly Groups.:** Friends groups, solo travellers. family. corporate vents.
+- **How might you size the market? Think industry reports, travel research, social listening, competitor analysis.:** Ai Suggested and we agreed. Roamly's addressable market for group experiences is roughly $2–3B (based on $40B global local experiences market × Roamly's 40-city penetration). In your user base, 15–20% of travelers (75K–200K organizers) travel in groups annually, representing 225K–800K participants. If 20% of current solo bookings convert to group bookings, groups could unlock a 4–5x GMV increase per organiser, translating to $400M–$500M TAM if you hit 25–30% penetration.
+- **Which cross-functional stakeholders would you include to validate and execute? Think beyond product and engineering, who has context on the customer, market, and commercial model?:** Head of Product, Head of Growth, Head of Host Success, Head of Support, VP Commercial, Product Marketing, and Payments. We need product + engineering to ship, revenue to price it, support to understand churn, hosts to validate demand, growth to measure virality, and PMM to create a narrative
+- **Which one segment is the most valuable to target first, and why?:** I think solo travellers are good as they tend to mingle and are willing to spend some money on it.
+- **What is the core value proposition for that segment?:** splitting and shared itinerary.
